@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HingeX</string>
+    <string name="match_text">Matches</string>
+    <string name="bold_explain">You\'re new , no matches yet</string>
+    <string name="long_explain1">When a like is mutual, you\'ll be able to chat here.</string>
+    <string name="long_explain2">Do you want to hel getting your first match ?</string>
+    <string name="boost_chip">Boost your profile </string>
+    <string name="upgrade_chip">Upgrade to HingeX </string>
+</resources>
